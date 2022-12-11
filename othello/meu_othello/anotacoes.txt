@@ -1,0 +1,18 @@
+Dicas para uma boa IA:
+
+- deixar o canto pro final é horrível porque pode permitir jogadas insanas para o outro jogador
+- não só o canto é bom de ser garantido, mas os lados também, pois ter uma sequência numa fila/coluna partindo dos lados é muito melhor
+    do que no meio do tabuleiro, pois não pode ser comida
+
+Comilão v1:
+- ganha até as últimas ~5 rodadas, quando o inimigo vira de forma rápida porque o comilão deixa paredes e cantos disponíveis
+
+Meu tabuleiro
+- rodar o jogo várias vezes
+- maior diferença de score durante o jogo
+
+
+Tempo total do jogador ComilaoPlayer BRANCO (O): 59,21533203125
+Tempo médio do jogador ComilaoPlayer BRANCO (O): 1,9738444010416667
+Tempo total do jogador RandomPlayer PRETO (X): 34,2021484375
+Tempo médio do jogador RandomPlayer PRETO (X): 1,1400716145833334
